@@ -13,7 +13,7 @@ gem 'bcrypt'
 gem "sinatra-cross_origin"
 gem 'rack-contrib'
 gem 'fast_jsonapi'
-gem 'sinatra-contrib', require: false
+gem 'sinatra-contrib'
 
 group :test do
     gem 'rspec'
